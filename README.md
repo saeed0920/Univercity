@@ -1,3 +1,4 @@
-# Univercity
-All codes from Azad univercity
-in this repository
+# University
+
+All codes from Azad University
+In This Repository
